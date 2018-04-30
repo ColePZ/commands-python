@@ -1,5 +1,6 @@
 command = ""
 print("PYCommands By TeamPZ")
+print("Ensure you have Python 2.14.7")
 
 command = input("Command (Ensure That you have speech marks): ")
 
