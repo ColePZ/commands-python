@@ -12,7 +12,7 @@ if command == "Help":
 if command == "Test":
  print("PYCommands Ready for use")
  
-if command == "Discord"
+if command == "Discord":
  print("https://discord.gg/Bft3ATV")
   
 
